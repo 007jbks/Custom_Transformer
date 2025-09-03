@@ -1,4 +1,4 @@
-# 🔥 Pre-trained Transformer Encoder from Scratch (NumPy)
+# 🔥 Transformer Encoder from Scratch (NumPy)
 
 This project is a character-level Transformer Encoder **implemented entirely from scratch using NumPy**, with no deep learning frameworks (no PyTorch, TensorFlow, or Keras). It replicates the core components of the Transformer architecture as introduced in the ["Attention is All You Need"](https://arxiv.org/abs/1706.03762) paper.
 
